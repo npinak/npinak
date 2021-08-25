@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @npinak
 - 👀 I’m interested in learning more about coding and data science. 
-- 🌱 I’m currently learning how to code using Python and R.
+- 🌱 I’m currently learning how to code using Python, R, and MATLAB.
 - 💞️ I’m looking to collaborate on not much right now really, maybe neuroscience research.
 - 📫 How to reach me ... hmm maybe not yet!
 
