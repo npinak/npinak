@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @npinak
-- 👀 I’m interested in learning more about coding and data science. 
-- 🌱 I’m currently learning how to code using Python, R, and MATLAB.
-- 💞️ I’m looking to collaborate on not much right now really, maybe neuroscience research.
-- 📫 How to reach me ... hmm maybe not yet!
+- 👀 I’m currently using this page to show projects that I've done to employers! 
+- 🌱 I’m currently learning more about Data Science, Python, R, and MATLAB.
+- 🧠 For my professional goals, I want to research the neural origins of psychiatric disoders. I know this is a broad topic, but I hope to learn more about what specifically I'm interested in as I gain more experience in the field of neuroscience. 
+
+
 
 <!---
 npinak/npinak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
