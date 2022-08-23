@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @npinak
 - 👀 I’m currently using this page to show projects that I've done!
-- 🌱 Right now, I am learning more about Data Science, EEG, and fMRI using Python, R, and MATLAB.
 
 
 <!---
