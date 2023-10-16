@@ -11,13 +11,7 @@
 -  **Fun fact :** Sci-fi is my favorite genre to read 🧑‍🔬
 -  **Pronouns :** He/Him/His 😇
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
-
--------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <table>
   <tbody>
@@ -36,7 +30,7 @@
       </td>
       <td width="25%" align="center">
         	<span>𝗧ypeScript</span><br><br><br>
-        	<img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-color-				tal-revivo/64/external-typescript-an-open-source-programming-language-developed-				and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-				an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-			color-tal-revivo"/>
+        	<img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
       </td>
     </tr>
     <tr valign="top">
