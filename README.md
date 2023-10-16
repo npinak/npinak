@@ -1,6 +1,82 @@
-- 👋 Hi, I’m @npinak
-- 👀 I’m currently using this page to show projects that I've done!
 
+## Pinak Nayak 👨‍💻
+[![Linkedin Badge](https://img.shields.io/badge/-Pinak_Nayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/npinak/)](https://www.linkedin.com/in/npinak/) 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+-  **Working :** Full Stack Web Development 🌐 
+-  **Learning :** AWS ☁️ 
+-  **Hobbies :** Books 📚 | Drawing 🎨 
+-  **Ask me about :** Anything!, I'm happy to help ✌️
+-  **Fun fact :** Sci-fi is my favorite genre to read 🧑‍🔬
+-  **Pronouns :** He/Him/His 😇
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=SulthanNK&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
+
+-------------------------------------------------------------------------------------------------
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        	<span>𝗧ypeScript</span><br><br><br>
+        	<img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-color-				tal-revivo/64/external-typescript-an-open-source-programming-language-developed-				and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-				an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-			color-tal-revivo"/>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Express</span><br><br><br>
+        <img height="64px" src="https://img.icons8.com/officel/64/express-js.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Mongoose</span><br><br><br>
+       <img width="64" height="64" src="https://img.icons8.com/color/64/mongoose.png" 		 alt="mongoose"/>
+      </td>
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img width="64" height="64" src="https://img.icons8.com/fluency/64/node-js.png"              
+         alt="node-js"/>      </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+      	<img width="64" height="64" src="https://img.icons8.com/officel/64/react.png"  		alt="react"/>		
+	  </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="25%" align="center">
+        	<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+        	<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!---
 npinak/npinak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
