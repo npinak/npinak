@@ -22,11 +22,15 @@
       <td width="25%" align="center">
         	<span>𝗧ypeScript</span><br><br><br>
         	<img width="64" height="64" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/>
+	       <td width="25%" align="center">
+        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
+<!--       </td>
 			<td width="25%" align="center">
         <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
-      </td>
+      </td> -->
 			<td width="25%" align="center">
 				<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
      	  <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
@@ -50,12 +54,9 @@
       	<img width="64" height="64" src="https://img.icons8.com/officel/64/react.png"  		alt="react"/>		
 	  </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-    </tr>
+<!--     <tr valign="top">
+     
+    </tr> -->
   </tbody>
 </table>
 
