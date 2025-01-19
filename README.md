@@ -7,8 +7,7 @@
 -  **Working :** Full Stack Web Development 🌐 
 -  **Learning :** AWS ☁️  
 -  **Ask me about :** Anything!, I'm happy to help ✌️
--  **Fun fact :** Sci-fi is my favorite genre to read 🧑‍🔬
--  **Pronouns :** He/Him/His 😇
+-  **Pronouns :** He/Him/His 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
